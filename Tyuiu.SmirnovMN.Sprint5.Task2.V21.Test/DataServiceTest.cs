@@ -11,7 +11,7 @@ namespace Tyuiu.SmirnovMN.Sprint5.Task2.V21.Test
         [TestMethod]
         public void TestMethod1()
         {
-            string path = @"C:\Users\mishasmirnov\source\repos\Tyuiu.SmirnovMN.Sprint5\Tyuiu.SmirnovMN.Sprint5.Task2.V21\bin\Debug\OutPutFileTask2.csv";
+            string path = @"C:\Users\mishasmirnov\source\repos\Tyuiu.SmirnovMN.Sprint5\Tyuiu.SmirnovMN.Sprint5.Task2.V21\bin\Debug\OutPutFileTask2.txt";
             FileInfo fileInfo = new FileInfo(path);
             bool fileExists = fileInfo.Exists;
             bool wait = true;
