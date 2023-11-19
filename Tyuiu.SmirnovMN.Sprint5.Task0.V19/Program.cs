@@ -18,7 +18,7 @@ namespace Tyuiu.SmirnovMN.Sprint5.Task0.V19
             Console.WriteLine("* Тема: Обработка файлов                                                   *");
             Console.WriteLine("* Задание #0                                                               *");
             Console.WriteLine("* Вариант #25                                                              *");
-            Console.WriteLine("* Выполнил: Смирнов Михил Николаевич | ИИПБ-23-2                           *");
+            Console.WriteLine("* Выполнил: Смирнов Михил Николаевич |                                     *");
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                 *");
             Console.WriteLine("* Дано выражение вычислить его значение при x = 3, результат сохранить     *");
